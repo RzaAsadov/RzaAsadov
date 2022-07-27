@@ -1,4 +1,4 @@
--  Hi, I’m Rza Asadov
+-  Hi, I’m Rza Asadov. I am from Azerbaijan.
 
 
 -  I’m very interested in development of Scalable and Hi-tech  software. Currently i am learning and working on big data technology stack.
