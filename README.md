@@ -1,4 +1,4 @@
--  Hi, I’m @RzaAsadov
+-  Hi, I’m Rza Asadov
 
 
 -  I’m very interested in development of Scalable and Hi-tech  software. Currently me learning and working on big data technology stack.
